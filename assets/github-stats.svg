@@ -10,23 +10,23 @@
     
       <rect x="26" y="86" width="138" height="46" rx="12" fill="#ffffff" stroke="#f08bb8" stroke-width="1.5"/>
       <text x="40" y="106" fill="#8d687c" font-size="12">Public Repos</text>
-      <text x="40" y="123" fill="#40333d" font-size="18" font-weight="700">0</text>
+      <text x="40" y="123" fill="#40333d" font-size="18" font-weight="700">25</text>
     
       <rect x="182" y="86" width="138" height="46" rx="12" fill="#ffffff" stroke="#f6c76f" stroke-width="1.5"/>
       <text x="196" y="106" fill="#8d687c" font-size="12">Stars</text>
-      <text x="196" y="123" fill="#40333d" font-size="18" font-weight="700">0</text>
+      <text x="196" y="123" fill="#40333d" font-size="18" font-weight="700">5</text>
     
       <rect x="338" y="86" width="138" height="46" rx="12" fill="#ffffff" stroke="#7bb7ff" stroke-width="1.5"/>
       <text x="352" y="106" fill="#8d687c" font-size="12">Forks</text>
-      <text x="352" y="123" fill="#40333d" font-size="18" font-weight="700">0</text>
+      <text x="352" y="123" fill="#40333d" font-size="18" font-weight="700">1</text>
     
       <rect x="26" y="152" width="138" height="46" rx="12" fill="#ffffff" stroke="#78d6a4" stroke-width="1.5"/>
       <text x="40" y="172" fill="#8d687c" font-size="12">Followers</text>
-      <text x="40" y="189" fill="#40333d" font-size="18" font-weight="700">0</text>
+      <text x="40" y="189" fill="#40333d" font-size="18" font-weight="700">6</text>
     
       <rect x="182" y="152" width="138" height="46" rx="12" fill="#ffffff" stroke="#f08bb8" stroke-width="1.5"/>
       <text x="196" y="172" fill="#8d687c" font-size="12">This Year</text>
-      <text x="196" y="189" fill="#40333d" font-size="18" font-weight="700">0</text>
+      <text x="196" y="189" fill="#40333d" font-size="18" font-weight="700">58</text>
     
     <text x="28" y="198" fill="#8d687c" font-size="12">Generated inside this repo with GitHub Actions</text>
   
