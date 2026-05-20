@@ -28,6 +28,5 @@
       <text x="196" y="172" fill="#8d687c" font-size="12">This Year</text>
       <text x="196" y="189" fill="#40333d" font-size="18" font-weight="700">62</text>
     
-    <text x="28" y="198" fill="#8d687c" font-size="12">Generated inside this repo with GitHub Actions</text>
   
 </svg>

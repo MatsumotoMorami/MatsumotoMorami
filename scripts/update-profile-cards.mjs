@@ -171,7 +171,6 @@ function createStatsSvg(profile) {
     <text x="28" y="42" fill="${colors.text}" font-size="24" font-weight="700">${escapeXml(profile.login)}'s GitHub</text>
     <text x="28" y="66" fill="${colors.muted}" font-size="14">little commits, useful projects, and cute experiments</text>
     ${statItems}
-    <text x="28" y="198" fill="${colors.muted}" font-size="12">Generated inside this repo with GitHub Actions</text>
   `);
 }
 
