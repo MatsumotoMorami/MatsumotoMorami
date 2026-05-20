@@ -5,11 +5,11 @@
   会写前端 也会写后端 爱好是写 QQBot
 </p>
 
-<a href="https://sekai.morami.icu">
-  <p align="center">
-    <img src=".\assets\morami_shoukai.gif" alt="Morami introduction" width="720" />
-  </p>
-</a>
+<p align="center">
+  <a href="https://sekai.morami.icu">
+    <img src="./assets/morami_shoukai.gif" alt="Morami introduction" width="720" />
+  </a>
+</p>
 
 ## About Me
 
