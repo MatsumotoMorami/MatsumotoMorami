@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="./assets/morami_shoukai.gif" alt="Morami introduction" width="720" />
+  <img src="https://s3api.morami.icu/public/morami_shoukai.gif" alt="Morami introduction" width="720" />
 </p>
 
 ## About Me
