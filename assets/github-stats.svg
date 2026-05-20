@@ -1,0 +1,33 @@
+<svg width="520" height="220" viewBox="0 0 520 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>GitHub profile card</title>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  </style>
+  
+    <rect width="520" height="220" rx="20" fill="#fff7fb" stroke="#f3b6cf" stroke-width="2"/>
+    <text x="28" y="42" fill="#40333d" font-size="24" font-weight="700">MatsumotoMorami's GitHub</text>
+    <text x="28" y="66" fill="#8d687c" font-size="14">little commits, useful projects, and cute experiments</text>
+    
+      <rect x="26" y="86" width="138" height="46" rx="12" fill="#ffffff" stroke="#f08bb8" stroke-width="1.5"/>
+      <text x="40" y="106" fill="#8d687c" font-size="12">Public Repos</text>
+      <text x="40" y="123" fill="#40333d" font-size="18" font-weight="700">0</text>
+    
+      <rect x="182" y="86" width="138" height="46" rx="12" fill="#ffffff" stroke="#f6c76f" stroke-width="1.5"/>
+      <text x="196" y="106" fill="#8d687c" font-size="12">Stars</text>
+      <text x="196" y="123" fill="#40333d" font-size="18" font-weight="700">0</text>
+    
+      <rect x="338" y="86" width="138" height="46" rx="12" fill="#ffffff" stroke="#7bb7ff" stroke-width="1.5"/>
+      <text x="352" y="106" fill="#8d687c" font-size="12">Forks</text>
+      <text x="352" y="123" fill="#40333d" font-size="18" font-weight="700">0</text>
+    
+      <rect x="26" y="152" width="138" height="46" rx="12" fill="#ffffff" stroke="#78d6a4" stroke-width="1.5"/>
+      <text x="40" y="172" fill="#8d687c" font-size="12">Followers</text>
+      <text x="40" y="189" fill="#40333d" font-size="18" font-weight="700">0</text>
+    
+      <rect x="182" y="152" width="138" height="46" rx="12" fill="#ffffff" stroke="#f08bb8" stroke-width="1.5"/>
+      <text x="196" y="172" fill="#8d687c" font-size="12">This Year</text>
+      <text x="196" y="189" fill="#40333d" font-size="18" font-weight="700">0</text>
+    
+    <text x="28" y="198" fill="#8d687c" font-size="12">Generated inside this repo with GitHub Actions</text>
+  
+</svg>

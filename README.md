@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://s3api.morami.icu/public/morami_shoukai.gif" />
+  <img src="./assets/morami_shoukai.gif" alt="Morami introduction" width="720" />
 </p>
 
 ## About Me
@@ -28,12 +28,15 @@ Server       Linux / Nginx / Docker / Deployment / Database / Maintenance
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatsumotoMorami&show_icons=true&theme=catppuccin_latte&hide_border=true" alt="GitHub Stats" />
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatsumotoMorami&layout=compact&theme=catppuccin_latte&hide_border=true" alt="Top Languages" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" />
 </p>
+
+平时会在这里放一些练手项目、工具、Bot 相关代码和自己折腾出来的小东西。
+这些统计卡片由仓库里的 GitHub Actions 自动刷新, 不依赖外部统计服务 ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
 ---
 
