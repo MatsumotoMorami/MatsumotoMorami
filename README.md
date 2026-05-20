@@ -13,7 +13,7 @@
 
 ## About Me
 
-平时一直在写 Bot 啦, 用 Koishi + Napcat 去开发; 前端常用 Next.js, 移动端和多端部署会用 Flutter, Vue 也稍微会写一点; 后端、中间件、CLI会用 Rust, 偶尔会用 Express 写后端; 服务器维护也稍微会一点啦
+信息学奥赛出身, 从很小的时候就开始学算法了; 平时一直在写 Bot 啦, 用 Koishi + Napcat 去开发; 前端常用 Next.js, 移动端和多端部署会用 Flutter, Vue 也稍微会写一点; 后端、中间件、CLI会用 Rust, 偶尔会用 Express 写后端; 服务器维护也稍微会一点啦
 
 ## Tech Stack
 
