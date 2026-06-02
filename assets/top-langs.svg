@@ -28,7 +28,7 @@
     
       <circle cx="34" cy="208" r="5" fill="#41b883"/>
       <text x="48" y="212" fill="#40333d" font-size="14">Vue</text>
-      <text x="454" y="212" fill="#8d687c" font-size="13" text-anchor="end">1.9%</text>
+      <text x="454" y="212" fill="#8d687c" font-size="13" text-anchor="end">2%</text>
     
       <circle cx="34" cy="230" r="5" fill="#555555"/>
       <text x="48" y="234" fill="#40333d" font-size="14">C</text>
