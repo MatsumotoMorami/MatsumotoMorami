@@ -14,7 +14,7 @@
     
       <rect x="182" y="86" width="138" height="46" rx="12" fill="#ffffff" stroke="#f6c76f" stroke-width="1.5"/>
       <text x="196" y="106" fill="#8d687c" font-size="12">Stars</text>
-      <text x="196" y="123" fill="#40333d" font-size="18" font-weight="700">5</text>
+      <text x="196" y="123" fill="#40333d" font-size="18" font-weight="700">6</text>
     
       <rect x="338" y="86" width="138" height="46" rx="12" fill="#ffffff" stroke="#7bb7ff" stroke-width="1.5"/>
       <text x="352" y="106" fill="#8d687c" font-size="12">Forks</text>
