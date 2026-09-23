@@ -2,7 +2,7 @@
 
 <p align="center">
   一个喜欢把想法做成真实项目的开发者<br>
-  会写前端 也会写后端 爱好是写 QQBot
+  会写前端 也会写后端 爱好是打 IIDX
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## About Me
 
-信息学奥赛出身, 从很小的时候就开始学了, 所以会一点C++和算法与数据结构; 平时一直在写 Bot 啦, 用 Koishi + Napcat 去开发; 前端常用 Next.js, 移动端和多端部署会用 Flutter, Vue 也稍微会写一点; 后端、中间件、CLI会用 Rust, 偶尔会用 Express 写后端; 服务器维护也稍微会一点啦
+信息学奥赛出身, 从很小的时候就开始学了, 所以会一点C++和算法与数据结构; 平时一直在打 IIDX 啦, 所以会写一些和 IIDX 相关的实用插件。QQ Bot 会用 Koishi + Napcat 去开发; 前端常用 Next.js, 移动端和多端部署会用 Flutter, Vue 也稍微会写一点; 后端、中间件、CLI会用 Rust, 偶尔会用 Express 写后端; 服务器维护也稍微会一点啦
 
 ## Tech Stack
 
