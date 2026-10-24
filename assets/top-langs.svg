@@ -8,7 +8,7 @@
     <text x="28" y="42" fill="#40333d" font-size="24" font-weight="700">Top Languages</text>
     <text x="28" y="66" fill="#8d687c" font-size="14">calculated from public non-fork repositories</text>
     <rect x="28" y="78" width="464" height="14" rx="7" fill="#f8dce9"/>
-    <rect x="28" y="78" width="375" height="14" rx="7" fill="#f34b7d"/><rect x="403" y="78" width="37" height="14" rx="7" fill="#3178c6"/><rect x="440" y="78" width="17" height="14" rx="7" fill="#3572A5"/><rect x="457" y="78" width="15" height="14" rx="7" fill="#dea584"/><rect x="472" y="78" width="11" height="14" rx="7" fill="#427819"/><rect x="483" y="78" width="10" height="14" rx="7" fill="#f1e05a"/>
+    <rect x="28" y="78" width="374" height="14" rx="7" fill="#f34b7d"/><rect x="402" y="78" width="37" height="14" rx="7" fill="#3178c6"/><rect x="439" y="78" width="17" height="14" rx="7" fill="#3572A5"/><rect x="456" y="78" width="15" height="14" rx="7" fill="#dea584"/><rect x="471" y="78" width="11" height="14" rx="7" fill="#427819"/><rect x="482" y="78" width="10" height="14" rx="7" fill="#f1e05a"/>
     
       <circle cx="34" cy="120" r="5" fill="#f34b7d"/>
       <text x="48" y="124" fill="#40333d" font-size="14">C++</text>
